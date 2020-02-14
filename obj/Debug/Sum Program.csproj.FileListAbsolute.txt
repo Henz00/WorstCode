@@ -1,0 +1,6 @@
+C:\Users\Henrik\source\repos\Sum Program\bin\Debug\Sum Program.exe.config
+C:\Users\Henrik\source\repos\Sum Program\bin\Debug\Sum Program.exe
+C:\Users\Henrik\source\repos\Sum Program\bin\Debug\Sum Program.pdb
+C:\Users\Henrik\source\repos\Sum Program\obj\Debug\Sum Program.csprojAssemblyReference.cache
+C:\Users\Henrik\source\repos\Sum Program\obj\Debug\Sum Program.exe
+C:\Users\Henrik\source\repos\Sum Program\obj\Debug\Sum Program.pdb
